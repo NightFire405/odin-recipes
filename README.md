@@ -1,1 +1,1 @@
-# odin-recipes
+This is my first website project. It will be a simple, ugly recipe website. This project will demonstrate my understanding of the basics of html development. Such as writing the boilerplate, inserting texts, links to other pages, and images.
